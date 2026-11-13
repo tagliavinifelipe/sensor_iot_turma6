@@ -1,9 +1,9 @@
 {
-    "apiKey": "AIzaSyDvRZD_fBM8eSfnwF0FnqsbNMli5kBdg4o",
-    "authDomain": "turma6-iot.firebaseapp.com",
-    "projectId": "turma6-iot",
-    "storageBucket": "turma6-iot.firebasestorage.app",
-    "messagingSenderId": "611308388837",
-    "appId": "1:611308388837:web:efea6cef93c5b4020b2f0c",
-    "measurementId": "G-7M4SNR95FF"
+  apiKey: "AIzaSyBEFbSn6oD5FGzIbUKNJRIMoZvPsRdA6LI",
+  authDomain: "iot-jfn.firebaseapp.com",
+  projectId: "iot-jfn",
+  storageBucket: "iot-jfn.firebasestorage.app",
+  messagingSenderId: "740813673524",
+  appId: "1:740813673524:web:e328659a77006fb8c5e661",
+  measurementId: "G-N4VKDP2ZCZ"
 }
